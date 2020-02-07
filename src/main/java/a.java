@@ -9,7 +9,7 @@
  * @author Paris
  */
 public class a {
-    int c;
+ 
     int add(int a,int b){
         return a+b;
     }
